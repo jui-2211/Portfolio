@@ -17,13 +17,13 @@ function About() {
         <div className="BigCard">
         <ScrollAnimation animateIn="fadeInLeft">
           <Image
-            src="/man-svgrepo-com.svg"
-            alt="man-svgrepo"
-          />
+            src="JuiMistry.svg"
+            alt="JUi Mistry"
+          />  
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Pedro Muniz</strong>. I'm originally from Brazil and have been living in Canada for the past three years. During my time here, I gained valuable experience through various entry-level positions, which greatly enhanced my work ethic, communication skills, and adaptability.
+            Hello! My name is <strong>Jui Mistry</strong>. I'm from India , Gujarat.
             </ScrollAnimation>
 
             <br /><br />
